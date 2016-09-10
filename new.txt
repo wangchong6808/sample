@@ -3,3 +3,4 @@ one more line added
 add a git test line
 the second line added.
 the third line
+in stage 

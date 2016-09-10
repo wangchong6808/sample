@@ -2,4 +2,8 @@ this file is create in dev branch
 new line added in dev branch
 add one more line in master branch
 try to add one more line in dev1 branch
+<<<<<<< HEAD
 add line in master
+=======
+add in branch dev1
+>>>>>>> dev1

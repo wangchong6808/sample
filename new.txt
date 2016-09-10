@@ -2,3 +2,4 @@ this was a test file
 one more line added
 add a git test line
 the second line added.
+the third line
